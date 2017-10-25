@@ -1,0 +1,4 @@
+e; luis; 24; ingenieriaElectrica;
+p; carlos, 34, fisico; 142352,88;
+p; victoria; 40; contadora; 23456,67;
+e; santiago; 20; ingautomotriz; 
